@@ -4,7 +4,11 @@ I am [Miren Lur](https://www.linkedin.com/in/mirenlurbarquintorre/), a Mathemati
 
 ---
 
+---
+
 While Python is my primary coding language, my academic and journey has exposed me to a diverse set of programming languages, including C++, Matlab, R, Excel Macros (VBA), and SQL.
+
+---
 
 ---
 
