@@ -6,7 +6,7 @@ While Python is my primary coding language, my academic and journey has exposed 
 
 In my GitHub profile, you'll find a collection of projects I've been diligently working on:
 - [The assignment problem for Kidney Paired Donation](https://github.com/MirenLurBarquin/Kidney-Paired-Donation) (Mathematics BSc Thesis)
-- 
+- [Axon segmentation using 3D Convolutional Neural Networks](https://github.com/MirenLurBarquin/AxonSeg-3D-CNN) (Mathematical Modelling and Computation MSc Thesis)
 
 Let's connect! 🚀
 
