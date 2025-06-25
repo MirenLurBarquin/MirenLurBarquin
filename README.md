@@ -1,6 +1,6 @@
 ### Bio & Projects 🔍
 
-I am [Miren Lur](https://www.linkedin.com/in/mirenlurbarquintorre/), a Mathematician specialized in Machine Learning, currently based in Copenhagen, Denmark. I am passionate about the healthcare sector, particularly in medical image analysis and computer vision.
+I am [Miren Lur](https://www.linkedin.com/in/mirenlurbarquintorre/), a mathematician specialized in Machine Learning, currently based in Copenhagen, Denmark. I am passionate about the healthcare sector, particularly in medical image analysis and computer vision.
 
 While Python is my primary coding language, my academic and professional journey has exposed me to a diverse set of programming languages, including C++, Matlab, R, MS Excel Macros (VBA), and SQL.
 
