@@ -5,6 +5,7 @@ I am [Miren Lur](https://www.linkedin.com/in/mirenlurbarquintorre/), a mathemati
 While Python is my primary coding language, my academic and professional journey has exposed me to a diverse set of languages and tools, including C++, Matlab, R, MS Excel Macros (VBA), and SQL.
 
 On my GitHub profile, you will find a selection of projects I have been diligently working on, including:
+- [Axon and myelin segmentation in EM images](https://github.com/MaP-science/DeepAxonMyelinEMSegmenter) ([Skoven CS et al. (2025) Imaging Neuroscience](https://doi.org/10.1162/IMAG.a.1058))
 - [The assignment problem for Kidney Paired Donation](https://github.com/MirenLurBarquin/Kidney-Paired-Donation) (Mathematics BSc Thesis)
 - [Axon segmentation using 3D Convolutional Neural Networks](https://github.com/MirenLurBarquin/AxonSeg-3D-CNN) (Mathematical Modelling and Computation MSc Thesis)
 
